@@ -1,0 +1,80 @@
+ <!DOCTYPE HTML>
+ <html>
+  <head>  
+    <meta charset="UTF-8"/>
+    <title>Komil5093</title>
+  </head>
+  <body>
+  	<img src="https://www.instagram.com/p/CdgQorAMuXH/?igshid=YmMyMTA2M2Y="width="200"alt="тут моя фотка"/>
+  	<h1>ШАРИПОВ КОМИЛ</h1>
+  	<p> <en>Я основал свой первый <b>YouTube канал </b> </en> </p>
+  	<p><i>я много раз в день захожу в интернет</i> </p>
+  	
+  	<hr>
+  		
+  	<h2>Мои социальные сети</h2>
+  	<ul>
+  	   <li> <a href="https://www.instagram.com/komil5093/"target="_blank"> Instagram</a></li>
+  	   
+  	   <li> <a target="_blank" href="https://t.me/_sueta.tm Komil">Telegram</a></li>
+  	</ul>
+  	<hr>
+  	
+  	<h2>Мои желании</h2>
+  	<ol>
+  		<li>я хочу пойти в  Америку </li>
+  		<li>хочу много зарабатывать</li>
+  		
+  	</ol>
+  	<hr>
+  	
+  	<h2> опит работи </h2>
+  	<table border="2">  
+  	<tr> 
+  	  <th>Кампания</th>
+  	  <th>Должность</th>
+  	  <th>Год</th>
+  	</tr>
+  	<tr>  
+  	   <td> ХочиАид</td>
+  	   <td>Фармацевт</td>
+  	   <td>2021-2021</td>
+  	</tr> 
+  	<tr>
+  		<td>Форс</td>
+  		<td>Колбасный</td>
+  		<td>2021-2022</td>
+  	</tr>
+  	</table>
+  	<hr>
+ 
+  <h2> YouTube фильми </h2>
+  <a href=""> Посмотрет список</a> 
+  <hr>
+  <h2>Связаться со мной</h2>
+  <form action="/">
+  	<label for="name">Ваш имя</label>
+  	<input tupe="text" id="name"
+  	placeholder="Вводите ваше имя...">
+  	
+  	<br>
+  	
+  	<label for="email">Ваш Email</label> 
+  	<input tupe="email" id="email"
+  	placeholder="Вводите email ...">
+  	
+  	<br>
+  	
+  	<label for="text">Ваше сообщение</label>
+  	<br>
+  	<textarea id="text" rows="2" cols="25"></textarea>
+   
+   <br>
+  	 
+  	 <input tupe="submit"
+  </form>
+  
+  <hr>
+  
+  </body>
+ </html>
